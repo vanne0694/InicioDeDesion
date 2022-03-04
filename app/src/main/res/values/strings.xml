@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App móvil</string>
+    <string name="userName">Ingresa tu usuario</string>
+    <string name="password">Ingresa tu contraseña</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="datosUS">Datos de usuario</string>
+</resources>
